@@ -22,6 +22,22 @@
       "description": "This is a project made with HTML5,CSS,JS.",
       "demo": "https://simon-game-zeta-livid.vercel.app/"
       
+    },
+    {
+      "key": 4,
+      "title": "Weather App",
+      "imageSrc": "https://miro.medium.com/v2/resize:fit:1400/1*fbLb3jkm3V_m4Mo5bmYJMg.png",
+      "description": "This is a project made with JavaScript,React,Tailwind CSS,Bootstrap",
+      "demo": "https://weatherapp-nu-khaki.vercel.app/"
+    },
+    {
+      
+        "key": 5,
+        "title": "Wanderlust-airbnb clone",
+        "imageSrc": "https://cdn-eahjn.nitrocdn.com/ChEvwayTHZmZJUAdsUNMLXuXZdBprFoQ/assets/images/optimized/rev-cf87a5b/www.spinxdigital.com/app/uploads/2022/11/image-airbnb.jpg",
+        "description": "This is a project made with NodeJs,MongoDB,ExpressJs,  Cloudinary,Bootstrap,REST",
+        "demo": "https://wanderlust-in1r.onrender.com/listings"
+      
     }
 
    
